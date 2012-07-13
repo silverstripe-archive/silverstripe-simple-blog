@@ -1,0 +1,36 @@
+.BlogError {
+	text-align: center;
+}
+
+.BlogError p {
+	color: #fff;
+	display: inline;
+	background-color: #f77;
+	padding: 7px;
+	font-weight:bold;
+}
+
+.edit-post {
+	clear:both;
+	padding-top:10px;
+}
+
+#BlogContent h2 {
+	font-size: 24px;
+    margin-bottom: 15px;
+    padding-top: 15px;
+    line-height: 32px;
+}
+.authorDate {
+	color: #999;
+    font-size: 12px;
+    line-height: 22px;
+    margin-bottom:0;
+}
+.blogEntry .tags {
+	color: #999;
+    font-size: 12px;
+    line-height: 22px;
+    border-bottom: 1px solid #e5e5e5;
+    padding-bottom:10px;
+}
