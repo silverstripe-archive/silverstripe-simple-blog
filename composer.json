@@ -12,8 +12,6 @@
     ],
     "require": {
         "silverstripe-themes/simple": "*",
-        "silverstripe/blog": "*",
-        "silverstripe/framework": "3.1.*@dev",
-        "silverstripe/cms": "3.1.*@dev"
+        "silverstripe/blog": "*"
     }
 }
